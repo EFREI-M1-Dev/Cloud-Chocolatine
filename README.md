@@ -1,4 +1,4 @@
-# REPO BY (missating)[https://github.com/missating]
+# REPO BY [https://github.com/missating](missating)
 # nodejs-todo
 
 <h2> A simple To Do List application built with Node.js and Express</h2>
